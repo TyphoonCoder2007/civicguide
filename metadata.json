@@ -1,0 +1,6 @@
+{
+  "name": "CivicGuide: Election Assistant",
+  "description": "An interactive election assistant for the Hack2Skill PromptWars Challenge to help users understand voting processes, timelines, and ask questions via an AI Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
